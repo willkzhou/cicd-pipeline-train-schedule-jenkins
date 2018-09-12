@@ -1,6 +1,6 @@
 plugins {
   //inlude the nodeJS plugin to execute nodejs and npm tasks
-  id "https://mvnrepository.com/artifact/com.moowork.node/com.moowork.node.gradle.plugin" version "1.2.0"
+  id "mvnrepository.com/artifact/com.moowork.gradle/gradle-node-plugin" version "1.1.0"
   
   // https://mvnrepository.com/artifact/com.moowork.gradle/gradle-node-plugin
   // id "com.moowork.gradle", name: "gradle-node-plugin", version: "1.2.0"
